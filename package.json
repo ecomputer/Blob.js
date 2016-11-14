@@ -1,6 +1,6 @@
 {
   "name": "blob.js",
-  "version": "1.0.0",
+  "version": "1.0.0-0",
   "description": "An HTML5 Blob implementation",
   "main": "Blob.js",
   "scripts": {
