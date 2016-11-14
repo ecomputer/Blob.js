@@ -13,3 +13,8 @@ Blob.js shares the [same supported browsers as FileSaver.js][2].
 
   [1]: https://developer.mozilla.org/en-US/docs/Web/API/Blob
   [2]: https://github.com/eligrey/FileSaver.js#supported-browsers
+
+Installation
+------------
+
+`npm install --save blob.js`
